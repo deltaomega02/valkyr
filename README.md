@@ -1,5 +1,7 @@
 # VALKYR — 암호화폐 자동매매 시스템 1세대 (아카이브)
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
 > 자동매매 시스템 7세대 진화의 시작점: **VALKYR** → ARGOS → OMNI → METIS → HERMES → KAIROS → ATHENA
 > 전체 계보: [github.com/deltaomega02](https://github.com/deltaomega02)
 
